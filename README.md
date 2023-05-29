@@ -1,5 +1,4 @@
-### Olá! 
-### Me chamo Gabriel Sganderla, bem vindo!
+### Olá, seja bem vindo!
 
 <!--
 **gsganderla/gsganderla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
