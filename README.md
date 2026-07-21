@@ -1,4 +1,4 @@
-👋 Hi, I'm Gabriel Ganderla
+👋 Hi, I'm Gabriel Sganderla
 
 📊 Data Analyst @ Cresol Confederação — 3+ years
 
